@@ -1,23 +1,59 @@
 # 📝 Modern Todo List App
 
-A sleek, lightweight, and responsive task management application. This project demonstrates modern DOM manipulation, persistent data handling with LocalStorage, and a mobile-first UI design.
+A clean, responsive, and user-friendly task management application built with HTML, CSS, and Vanilla JavaScript. This project demonstrates modern DOM manipulation, LocalStorage integration, and mobile-first UI design principles.
 
 ## 🚀 Features
 
-* **✨ Create Tasks:** Quickly add new items to your list via the input field or by pressing "Enter."
-* **✏️ Inline Editing:** Double-click any task to modify the text instantly—keeping your list flexible.
-* **🗑️ Easy Deletion:** Remove tasks with a single click to keep your workspace clutter-free.
-* **💾 Data Persistence:** Powered by the **Browser LocalStorage API**, ensuring your tasks remain even after a page refresh.
-* **📱 Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing.
+- ✨ Add new tasks instantly
+- ⌨️ Create tasks using the Enter key
+- ✏️ Edit tasks directly with inline editing
+- 🗑️ Delete tasks with a single click
+- 💾 Persistent data storage using LocalStorage
+- 📱 Fully responsive design for all devices
+- ⚡ Fast and lightweight performance
+- 🎨 Clean and modern user interface
 
 ## 🛠️ Tech Stack
 
-* **HTML5:** Structured with semantic elements.
-* **CSS3:** Custom properties (variables), Flexbox, and smooth box-shadow effects for depth.
-* **JavaScript (ES6+):** Vanilla JS for logic, event listeners, and JSON data management.
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript (ES6+)
+- 💾 Browser LocalStorage API
 
-## 📦 Installation & Usage
+## 📸 Project Highlights
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/vighneshchiluka/To-do-list-app.git](https://github.com/vighneshchiluka/To-do-list-app.git)
+- Modern DOM Manipulation
+- Real-time Task Management
+- Persistent Client-Side Data Storage
+- Mobile-First Responsive Design
+- Cross-Browser Compatibility
+
+## 🌍 Live Demo
+
+🔗 https://vighneshchiluka.github.io/To-do-list-app/
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/vighneshchiluka/To-do-list-app.git
+```
+
+```bash
+cd To-do-list-app
+```
+
+Open `index.html` in your browser.
+
+## 👨‍💻 Developer
+
+### Vighnesh Chiluka
+
+🌐 Portfolio: https://vighneshchiluka.netlify.app
+
+💼 LinkedIn: https://www.linkedin.com/in/vighneshchiluka/
+
+🐙 GitHub: https://github.com/vighneshchiluka
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
