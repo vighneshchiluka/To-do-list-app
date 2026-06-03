@@ -54,6 +54,3 @@ Open `index.html` in your browser.
 
 🐙 GitHub: https://github.com/vighneshchiluka
 
----
-
-⭐ If you found this project useful, consider giving it a star.
